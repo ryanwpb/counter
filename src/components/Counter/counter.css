@@ -17,4 +17,5 @@ button.count {
   font-weight: bold;
   cursor: pointer;
   margin: 2rem 0.5rem;
+  border-radius: 3px;
 }
