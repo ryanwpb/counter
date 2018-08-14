@@ -3,9 +3,15 @@ import './counter.css'
 
 const Counter = () => {
     return (
-        <button className="count">
-            Increment
-        </button>
+        <div className="container">
+            <button className="count">
+                Increment +
+            </button>
+            <button className="count">
+                Decrement -
+            </button>
+        </div>
+
     )
 }
 
