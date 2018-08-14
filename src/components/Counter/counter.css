@@ -2,12 +2,12 @@
     padding: 3rem 0;
     background: #24292e;
     color: #fff;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 span.countNum {
     margin: 0 0.5rem;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 button#add,#subtract{
