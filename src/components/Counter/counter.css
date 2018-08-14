@@ -1,0 +1,20 @@
+.countDisplay {
+    padding: 3rem 0;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+}
+
+span.countNum {
+    margin: 0 0.5rem;
+    font-size: 20px;
+}
+
+button.count {
+  border: solid 1px #ccc;
+  padding: 1rem;
+  background: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 2rem 0;
+}
