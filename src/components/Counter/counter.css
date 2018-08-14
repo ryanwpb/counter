@@ -22,12 +22,7 @@ button#add,#subtract{
   color: #24292e;
 }
 
-button#add:hover {
-    color: crimson;
-    transition: all 0.2s ease-in-out;
-}
-
-button#subtract:hover {
+#add:hover, #subtract:hover {
     color: crimson;
     transition: all 0.2s ease-in-out;
 }
