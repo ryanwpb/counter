@@ -23,6 +23,6 @@ button#add,#subtract{
 }
 
 #add:hover, #subtract:hover {
-    color: crimson;
-    transition: all 0.2s ease-in-out;
+  color: crimson;
+  transition: all 0.2s ease-in-out;
 }

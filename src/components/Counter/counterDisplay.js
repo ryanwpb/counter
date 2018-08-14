@@ -1,12 +1,13 @@
 import React from 'react';
 import './counter.css'
 
-const Display = () => {
+const Display = ({count}) => {
+    console.log("log: ", count)
     return (
         <div className="countDisplay">
             Counter = 
             <span className="countNum">
-                0
+            {count}
             </span>
         </div>
     )
