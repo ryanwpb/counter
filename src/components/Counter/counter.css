@@ -1,6 +1,6 @@
 .countDisplay {
     padding: 3rem 0;
-    background: crimson;
+    background: #24292e;
     color: #fff;
     font-size: 20px;
 }
@@ -10,7 +10,7 @@ span.countNum {
     font-size: 20px;
 }
 
-button.count {
+button#add,#subtract{
   border: solid 1px #ccc;
   padding: 1rem;
   background: #fff;
@@ -18,4 +18,6 @@ button.count {
   cursor: pointer;
   margin: 2rem 0.5rem;
   border-radius: 3px;
+  font-size: 15px;
+  color: #24292e;
 }

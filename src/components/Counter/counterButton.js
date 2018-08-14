@@ -4,10 +4,10 @@ import './counter.css'
 const Counter = () => {
     return (
         <div className="container">
-            <button className="count">
+            <button id="add">
                 Increment +
             </button>
-            <button className="count">
+            <button id="subtract">
                 Decrement -
             </button>
         </div>
